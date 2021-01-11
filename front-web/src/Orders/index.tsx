@@ -1,4 +1,4 @@
-import './styles.css';
+import './styles.css'; //
 import StepsHeader from './StepsHeader';
 import ProductsList from './ProductsList';
 import { useEffect, useState } from 'react';
